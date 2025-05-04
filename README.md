@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! ✨ Here, you'll find a showcase of my creative projects and professional journey, where design meets strategy. Dive in and explore my work in marketing, PR, and visual storytelling. 🚀
 
-## 🌐 [Live Demo](#)  
+## 🌐 [Live Demo]([#](https://lnersisyanportfoilio.netlify.app/))  
 Experience my portfolio in action—click above to view it live!
 
 ---
